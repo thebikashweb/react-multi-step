@@ -161,7 +161,6 @@ const FormStepper: React.FC<FormStepperProps> = ({onStepChange, step}) => {
 				{step < 3 ? (
 					<button
 						className="btn btn-primary"
-						disabled={true}
 						onClick={() => onStepChange(step + 1)}>
 						Next
 					</button>

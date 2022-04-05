@@ -1,8 +1,8 @@
 ## React Multi Step form
 
-## [Video Tutorial](https://youtu.be/3kNpIbTEuos)
+## [Video Tutorial](https://www.youtube.com/channel/UCKtcuEBjG-8T1HDrpuAprww)
 
-## [Demo link ](https://bw-react-router.netlify.app)
+## [Demo link ](https://bw-react-multi-form.netlify.app/)
 
 ### Tasks
 
