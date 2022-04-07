@@ -1,6 +1,6 @@
 ## React Multi Step form
 
-## [Video Tutorial](https://www.youtube.com/channel/UCKtcuEBjG-8T1HDrpuAprww)
+## [Video Tutorial](https://youtu.be/eenVNZe0PLs)
 
 ## [Demo link ](https://bw-react-multi-form.netlify.app/)
 
